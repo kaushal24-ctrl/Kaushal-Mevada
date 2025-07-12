@@ -13,13 +13,15 @@ I'm always open to knowledge-sharing, collaboration, and community-building in t
 
 ## 🛠️ Skills & Tools
 
-### 🔐 What I Work With
-- Monitoring and analyzing security alerts in real-time  
-- Investigating incidents and performing digital forensics  
-- Hunting for threats and unusual behavior across endpoints and networks  
-- Reviewing logs and identifying signs of compromise  
-- Automating repetitive SOC tasks and response actions  
-- Studying malware behavior and attack chains
+### 🔐 What I’m Learning & Practicing
+
+- Exploring **SOC workflows** and how real-world alert triage is handled  
+- Analyzing logs to detect **security events and anomalies**  
+- Studying techniques in **digital forensics** and **incident handling**  
+- Practicing **malware analysis** in lab environments  
+- Working with **detection rules**, **log correlation**, and basic **response automation**  
+- Gaining exposure to how security tools are used in enterprise environments  
+
 
 ### 🧰 Tools & Platforms
 - **SIEM Tools**: Splunk, Wazuh, ELK Stack  
